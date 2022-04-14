@@ -5,5 +5,5 @@
 
 
 
-![](https://raw.githubusercontent.com/kexul/kexul/main/assets/github-contribution-grid-snake.svg)
+
 
